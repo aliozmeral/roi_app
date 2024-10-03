@@ -27,7 +27,7 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 2. Uygulamayı çalıştırın:
 
    ```bash
-   python your_script.py
+   python tikender.py
    ```
 
 ## Kullanım
